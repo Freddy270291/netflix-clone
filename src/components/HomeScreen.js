@@ -7,7 +7,6 @@ function HomeScreen() {
   return (
     <div className="homeScreen">
       <Nav />
-
       <Banner />
       {/* Row */}
     </div>
@@ -15,5 +14,3 @@ function HomeScreen() {
 }
 
 export default HomeScreen;
-
-//1:09:00
